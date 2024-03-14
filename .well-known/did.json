@@ -1,22 +1,22 @@
 {
   "@context": [
-    "https://www.w3.org/ns/did/v1",
-    "https://w3id.org/security/v2"
+      "https://www.w3.org/ns/did/v1",
+      "https://w3id.org/security/suites/jws-2020/v1",
+      "https://w3id.org/security/suites/ed25519-2020/v1"
   ],
-  "id": "iataholder.onrender.com",
-  "authentication": [
-    "iataholder.onrender.com#key-1"
-  ],
+  "id": "did:web:iataholder.onrender.com",
+  "authentication": [],
+  "service": [],
   "verificationMethod": [
-    {
-      "id": "iataholder.onrender.com#key-1",
-      "type": "Ed25519VerificationKey2018",
-      "controller": "iataholder.onrender.com",
-      "publicKeyBase58": "F1MjD3adeQkPY3vm57ew8ALMpoUGP6DBsZgRJcHHFsJG"
-    }
+      {
+          "id": "did:web:iataholder.onrender.com#key-1",
+          "type": "Ed25519VerificationKey2018",
+          "controller": "did:web:iataholder.onrender.com",
+          "publicKeyBase58": "F1MjD3adeQkPY3vm57ew8ALMpoUGP6DBsZgRJcHHFsJG"
+      }
   ],
   "alsoKnownAs": [],
   "assertionMethod": [
-    "iataholder.onrender.com#key-1"
+      "did:web:iataholder.onrender.com#key-1"
   ]
 }
