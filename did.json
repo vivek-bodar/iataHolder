@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/v2"
+  ],
+  "id": "did:web:vivek-bodar.github.io:iataHolder",
+  "authentication": [
+    "did:web:vivek-bodar.github.io:iataHolder#key-1"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:web:vivek-bodar.github.io:iataHolder#key-1",
+      "type": "Ed25519VerificationKey2018",
+      "controller": "did:web:vivek-bodar.github.io:iataHolder",
+      "publicKeyBase58": "4bhtQTfxjawPr5Kuusz3E6xacKgpfSUHBxziCieZC6NX"
+    }
+  ],
+  "alsoKnownAs": [],
+  "assertionMethod": [
+    "did:web:vivek-bodar.github.io:iataHolder#key-1"
+  ]
+}
