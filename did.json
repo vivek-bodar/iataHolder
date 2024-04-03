@@ -10,7 +10,7 @@
         {
             "id": "did:web:vivek-bodar.github.io:iataHolder#did-communication",
             "type": "did-communication",
-            "serviceEndpoint": "http://iata_holder_agent:6030"
+            "serviceEndpoint": "https://c1ba-116-73-223-50.ngrok-free.app"
         }
     ],
     "verificationMethod": [
