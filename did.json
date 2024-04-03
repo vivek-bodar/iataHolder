@@ -19,7 +19,8 @@
             "recipient_keys": [
                 "did:web:vivek-bodar.github.io:iataHolder#key-1"
             ],
-            "routing_keys": []
+            "routing_keys": [],
+            "priority": 2
         }
     ],
     "verificationMethod": [
