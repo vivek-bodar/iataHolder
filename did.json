@@ -15,7 +15,11 @@
             "serviceEndpoint": "https://c1ba-116-73-223-50.ngrok-free.app",
             "accept": [
                 "didcomm/aip2;env=rfc19"
-            ]
+            ],
+            "recipient_keys": [
+                "did:web:vivek-bodar.github.io:iataHolder#key-1"
+            ],
+            "routing_keys": []
         }
     ],
     "verificationMethod": [
