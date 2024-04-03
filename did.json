@@ -6,7 +6,13 @@
     ],
     "id": "did:web:vivek-bodar.github.io:iataHolder",
     "authentication": ["did:web:vivek-bodar.github.io:iataHolder#key-1"],
-    "service": [],
+    "service": [
+        {
+            "id": "did:web:vivek-bodar.github.io:iataHolder#did-communication",
+            "type": "did-communication",
+            "serviceEndpoint": "http://iata_holder_agent:6030"
+        }
+    ],
     "verificationMethod": [
         {
             "id": "did:web:vivek-bodar.github.io:iataHolder#key-1",
