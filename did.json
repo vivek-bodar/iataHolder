@@ -28,7 +28,7 @@
             "id": "did:web:vivek-bodar.github.io:iataHolder#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:vivek-bodar.github.io:iataHolder",
-            "publicKeyBase58": "GteYpDpoH3bPBrY7GmNADF4WNztqBzvBhmGbZGwDt6f1"
+            "publicKeyBase58": "9Ka9MAs16i3emtEwZBB58DMj6Xy7KN92p2FNCLCpXZad"
         }
     ],
     "alsoKnownAs": [],
