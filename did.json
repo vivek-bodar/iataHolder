@@ -20,7 +20,7 @@
                 "did:web:vivek-bodar.github.io:iataHolder#key-1"
             ],
             "routing_keys": [],
-            "priority": 2
+            "priority": 1
         }
     ],
     "verificationMethod": [
@@ -28,7 +28,7 @@
             "id": "did:web:vivek-bodar.github.io:iataHolder#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:vivek-bodar.github.io:iataHolder",
-            "publicKeyBase58": "CBVtvzhMhx6YrT9F8qzTLQoMQdEWiBoJtVhNUZf2zH3q"
+            "publicKeyBase58": "GteYpDpoH3bPBrY7GmNADF4WNztqBzvBhmGbZGwDt6f1"
         }
     ],
     "alsoKnownAs": [],
